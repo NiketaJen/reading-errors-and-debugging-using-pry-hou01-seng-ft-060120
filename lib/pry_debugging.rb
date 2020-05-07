@@ -1,6 +1,7 @@
-state_log(generate_star_date)
+def plus_two(num)
   num + 2
   num
   
 end
 binding.pry
+require'pry'
