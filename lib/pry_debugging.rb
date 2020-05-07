@@ -1,4 +1,4 @@
-def plus_two(num)
+state_log(generate_star_date)
   num + 2
   num
   
